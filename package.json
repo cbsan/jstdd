@@ -1,33 +1,31 @@
 {
-  "name": "jstdd",
-  "version": "1.0.0",
-  "description": "Studing TDD with NodeJs",
-  "main": "src/index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^5.12.1",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.15.0",
-    "eslint-plugin-jsx-a11y": "^6.2.0",
-    "eslint-plugin-react": "^7.12.4",
-    "prettier-eslint": "^8.8.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cbsan/jstdd.git"
-  },
-  "keywords": [
-    "js",
-    "node",
-    "tdd"
-  ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cbsan/jstdd/issues"
-  },
-  "homepage": "https://github.com/cbsan/jstdd#readme"
+    "name": "jstdd",
+    "version": "1.0.0",
+    "description": "Studing TDD with NodeJs",
+    "main": "src/index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^5.12.1",
+        "eslint-config-airbnb": "^17.1.0",
+        "eslint-plugin-import": "^2.15.0",
+        "prettier-eslint": "^8.8.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cbsan/jstdd.git"
+    },
+    "keywords": [
+        "js",
+        "node",
+        "tdd"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cbsan/jstdd/issues"
+    },
+    "homepage": "https://github.com/cbsan/jstdd#readme"
 }
