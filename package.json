@@ -1,0 +1,26 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "Studing TDD with NodeJs",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbsan/jstdd.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "tdd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbsan/jstdd/issues"
+  },
+  "homepage": "https://github.com/cbsan/jstdd#readme"
+}
